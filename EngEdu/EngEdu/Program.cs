@@ -10,7 +10,8 @@ namespace EngEdu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Year 255x semester 1, I am anEngedu Freshma,.");
+            Console.WriteLine("Year 255x semester 1, I am anEngedu Freshman.");
+            Console.WriteLine("Year 255x semester 2, I learn to programp c sharp.");
         }
     }
 }
