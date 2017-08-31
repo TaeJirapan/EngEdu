@@ -15,6 +15,7 @@ namespace EngEdu
             Console.WriteLine("Year 2560 semester 1, I have to regrade on some course.");
             Console.WriteLine("Year 2560 semester 2, I have to relax on some course.");
             Console.WriteLine("Year 2561 semester 1, I let go to clear some course");
+            console.writeLine("Year 2561 semester 2, I find some where to work on holiday");
         }
     }
 }
